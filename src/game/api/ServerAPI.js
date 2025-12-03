@@ -1,4 +1,4 @@
-const BASE_URL = "http://58.84.1.186:8080/api/v1/app";
+const BASE_URL = "http://dev-taixe.bship.vn:8080/api/v1/app";
 
 // Put token here or load dynamically later
 const TOKEN = "23a3ee9d0ecce341cfaa6bda8cf173ce";
